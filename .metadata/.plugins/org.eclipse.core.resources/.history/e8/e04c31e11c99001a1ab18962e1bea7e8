@@ -5,7 +5,7 @@ Today, we're building on our knowledge of Arrays by adding another dimension.
 
 Context
 Given a 6X6 2D Array, A:
-<pre>
+
 1 1 1 0 0 0
 
 0 1 0 0 0 0
@@ -17,7 +17,7 @@ Given a 6X6 2D Array, A:
 0 0 0 0 0 0
 
 0 0 0 0 0 0
-</pre>
+
 We define an hour glass in A to be a subset of values with indices falling in this pattern in A's graphical representation:
 
 a b c
